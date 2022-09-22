@@ -5,9 +5,9 @@ version: '3'
 #集群版：noearorg/luffy-jtc ，使用mysql8数据库
 
 services:
-  teamx:
+  navx:
     image: noearorg/luffy-jtc:1.3.4
-    container_name: teamx
+    container_name: navx
     environment:
       - luffy.add=navx.noear     #添加luffy插件，多个以,隔开
       - luffy.init=/navx/__init  #启动后的初始化脚本
