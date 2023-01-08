@@ -7,7 +7,7 @@ NavX 是一个小巧的导航工具；基于 Luffy faas 平台构建。
 
 ### 二、体验地址
 
-* http://teamx.noear.org/
+* https://navx.noear.org/
 
 
 ### 三、部署说明
